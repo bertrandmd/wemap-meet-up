@@ -21,7 +21,6 @@
 4. Partagez et profitez de votre carte !
 
 - https://livemap.getwemap.com/iframe.php?token=ZJ2XO3WZ8TPP6FDZL5EY9JVN6&emmid=4005
-<iframe width='100%' height='100%' src='https://livemap.getwemap.com/iframe.php?token=ZJ2XO3WZ8TPP6FDZL5EY9JVN6&emmid=4005' allow-script allowfullscreen allow-top-navigation frameborder='0'></iframe>
 - https://livemap.getwemap.com/iframe.php?token=ZJ2XO3WZ8TPP6FDZL5EY9JVN6&emmid=4013
 
 
