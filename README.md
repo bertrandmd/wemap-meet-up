@@ -18,7 +18,7 @@
 - par un import xlsx
 - par un connecteur google spreadsheet
 
-4. Partagez et profitez de votre carte !
+4. Partagez et profitez de votre carte ! :alien:
 
 - https://livemap.getwemap.com/iframe.php?token=ZJ2XO3WZ8TPP6FDZL5EY9JVN6&emmid=4005
 - https://livemap.getwemap.com/iframe.php?token=ZJ2XO3WZ8TPP6FDZL5EY9JVN6&emmid=4013
