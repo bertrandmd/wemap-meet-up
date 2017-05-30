@@ -25,7 +25,8 @@
 
 ### Divers:
 
--  framapad du meetup : https://mensuel.framapad.org/p/pFtA8cPRLE
+- framapad du meetup : https://mensuel.framapad.org/p/pFtA8cPRLE
+- geojsonio : http://geojson.io
 - data :
     - http://www.cnes-geipan.fr/fileadmin/documents/Export_etudedecas.csv  
     - https://gist.githubusercontent.com/bertrandmd/53da7fbc8a5a57492ac0942f664fca47/raw/0ffb947d9cd204e889f8440cb15fd9b8a59514b5/map.geojson
